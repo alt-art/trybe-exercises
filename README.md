@@ -25,7 +25,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 3-2: _HTML & CSS - Getting Started with CSS_
 - [ ] 3-3: _HTML & CSS - Selectors and positioning_
 - [ ] 3-4: _Semantic HTML_
-- [ ] 3-5: _[Project - HTML & CSS]()_
+- [ ] 3-5: _[Project - HTML & CSS](#)_
 
 ##### Block 4: Introduction - JavaScript
 
@@ -33,7 +33,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 4-2: _JavaScript - Array and For_ loop
 - [ ] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [ ] 4-4: _JavaScript - Objects and functions_
-- [ ] 4-5: _[Project - Playground Functions]()_
+- [ ] 4-5: _[Project - Playground Functions](#)_
 
 ##### Block 5: Introduction - JavaScript - Projects
 
@@ -41,11 +41,11 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 5-2: _JavaScript - Working with elements_
 - [ ] 5-3: _JavaScript - Events_
 - [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Project - Meme Generator]()_
-- [ ] 5-6: _[Project - Pixel Art]()_
-- [ ] 5-7: _[Project - Task List]()_
-- [ ] 5-7: _[Project - Guess the Color]()_
-- [ ] 5-7: _[Project - Mysterious Letter]()_
+- [ ] 5-5: _[Project - Meme Generator](#)_
+- [ ] 5-6: _[Project - Pixel Art](#)_
+- [ ] 5-7: _[Project - Task List](#)_
+- [ ] 5-7: _[Project - Guess the Color](#)_
+- [ ] 5-7: _[Project - Mysterious Letter](#)_
 
 ##### Block 6: Advanced HTML & CSS
 
@@ -54,14 +54,14 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsive - Mobile First_
-- [ ] 6-6: _[Project - Facebook homepage]()_
+- [ ] 6-6: _[Project - Facebook homepage](#)_
 
 ##### Block 7: JavaScript ES6 & Unit Tests
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
 - [ ] 7-2: _JavaScript ES6 - Objects_
 - [ ] 7-3: _Unit tests in JavaScript_
-- [ ] 7-4: _[Project - JavaScript Unit Testing]()_
+- [ ] 7-4: _[Project - JavaScript Unit Testing](#)_
 
 ##### Block 8: JavaScript ES6
 
@@ -69,20 +69,20 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map and filter_
 - [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [ ] 8-5: _[Project - Zoo functions]()_
+- [ ] 8-5: _[Project - Zoo functions](#)_
 
 ##### Block 9: Asynchronicity & Callbacks
 
 - [ ] 9-1: _Asynchronous JavaScript and Callbacks_
 - [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Project - Shopping Cart]()_
+- [ ] 9-3: _[Project - Shopping Cart](#)_
 
 ##### Block 10: Jest
 
 - [ ] 10-1: _First steps in Jest_
 - [ ] 10-2: _Jest - Asynchronous Tests_
 - [ ] 10-3: _Jest - Simulating behavior_
-- [ ] 10-4: _[Project - Asynchronous Jest and Mocking]()_
+- [ ] 10-4: _[Project - Asynchronous Jest and Mocking](#)_
 
 ## Front-end development :hourglass_flowing_sand:
 
@@ -90,31 +90,31 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 - [ ] 11-1: _'Hello, world!' On React!_
 - [ ] 11-2: _React Components_
-- [ ] 11-3: _[Project - Movie Cards Library]()_
+- [ ] 11-3: _[Project - Movie Cards Library](#)_
 
 ##### Block 12: React
 
 - [ ] 12-1: _Components with status_
 - [ ] 12-2: _Events and forms in React_
-- [ ] 12-3: _[Project - Movie Cards Library Stateful]()_
+- [ ] 12-3: _[Project - Movie Cards Library Stateful](#)_
 
 ##### Block 13: React
 
 - [ ] 13-1: _Improving component reuse: props.children and PropTypes_
 - [ ] 13-2: _Component lifecycle in React_
 - [ ] 13-3: _React Router_
-- [ ] 13-4: _[Project - Movie Cards Library CRUD]()_
+- [ ] 13-4: _[Project - Movie Cards Library CRUD](#)_
 
 ##### Block 14: Agile Methodologies
 
 - [ ] 14-1: _Agile Methodologies_
-- [ ] 14-2: _[Project - Frontend Online Store]()_
+- [ ] 14-2: _[Project - Frontend Online Store](#)_
 
 ##### Block 15: Tests in React
 
 - [ ] 15-1: _Testing React with the React Testing Library_
 - [ ] 15-2: _Testing React with the React Testing Library - Part 2_
-- [ ] 15-3: _[Project - Tests in React]()_
+- [ ] 15-3: _[Project - Tests in React](#)_
 
 ##### Block 16: Introduction to Redux
 
@@ -123,22 +123,22 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 16-3: _React with Redux - Practice_
 - [ ] 16-4: _React with Redux - Part 2_
 - [ ] 16-5: _Synchronous tests with React-Redux_
-- [ ] 16-6: _[Project - Table with data filters]()_
+- [ ] 16-6: _[Project - Table with data filters](#)_
 
 ##### Block 17: Project React
 
-- [ ] 17-1: _[Project - Trivia Game]()_
+- [ ] 17-1: _[Project - Trivia Game](#)_
 
 ##### Block 18: React & Context API
 
 - [ ] 18-1: _Context API of React_
 - [ ] 18-2: _React Hooks - useState and useContext_
 - [ ] 18-3: _React Hooks - useEffect and Custom Hooks_
-- [ ] 18-4: _[Project - StarWars Datatable with Context API and Hooks]()_
+- [ ] 18-4: _[Project - StarWars Datatable with Context API and Hooks](#)_
 
 ##### Block 19: Front-end Final Project
 
-- [ ] 19-1: _[Project - Recipe App]()_
+- [ ] 19-1: _[Project - Recipe App](#)_
 
 ## Back-end Development :hourglass_flowing_sand:
 
@@ -148,75 +148,75 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 20-2: _Finding data in a database_
 - [ ] 20-3: _Filtering data specifically_
 - [ ] 20-4: _Manipulating tables_
-- [ ] 20-5: _[Project - All For One]()_
+- [ ] 20-5: _[Project - All For One](#)_
 
 ##### Block 21: Relational Databases
 
 - [ ] 21-1: _Most used functions in SQL_
 - [ ] 21-2: _Uncomplicating JOINs and UNIONs_
 - [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Project - Vocabulary Booster]()_
+- [ ] 21-4: _[Project - Vocabulary Booster](#)_
 
 ##### Block 22: Relational Databases
 
 - [ ] 22-1: _Transforming ideas into a database model_
 - [ ] 22-2: _Normalization, Normal Forms and Dumps_
 - [ ] 22-2: _Turning ideas into a database model - Part 2_
-- [ ] 22-3: _[Project - One For All]()_
+- [ ] 22-3: _[Project - One For All](#)_
 
 ##### Block 23: Introduction - NoSQL
 
 - [ ] 23-1: _MongoDB - Introduction_
 - [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Project - Date Flights]()_
+- [ ] 23-3: _[Project - Date Flights](#)_
 
 ##### Block 24: Updates
 
 - [ ] 24-1: _Simple Updates_
 - [ ] 24-2: _Complex Updates - Arrays - Part 1_
 - [ ] 24-3: _Complex Updates - Arrays - Part 2_
-- [ ] 24-4: _[Project - Commerce]()_
+- [ ] 24-4: _[Project - Commerce](#)_
 
 ##### Block 25: Aggregation Framework
 
 - [ ] 25-1: _Aggregation Framework - Part 1_
 - [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Project - Aggregations]()_
+- [ ] 25-3: _[Project - Aggregations](#)_
 
 ##### Block 26: Intro - NodeJS
 
 - [ ] 26-1: _NodeJS - Introduction_
 - [ ] 26-2: _NodeJS - Asynchronous Stream_
 - [ ] 26-3: _NodeJS - Architecture_
-- [ ] 26-4: _[Project - A CLI of Ice and Fire]()_
+- [ ] 26-4: _[Project - A CLI of Ice and Fire](#)_
 
 ##### Block 27: NodeJS
 
 - [ ] 27-1: _Express: HTTP with Node.js_
 - [ ] 27-2: _Software Architecture - Introduction to MVC_
-- [ ] 27-3: _[Project - Cookmaster]()_
+- [ ] 27-3: _[Project - Cookmaster](#)_
 
 ##### Block 28: NodeJS
 
 - [ ] 28-1: _Software Architecture - Service Layer_
 - [ ] 28-2: _Web Architecture - Rest and Restful_
-- [ ] 28-3: _[Project - Store Manager]()_
+- [ ] 28-3: _[Project - Store Manager](#)_
 
 ##### Block 29: NodeJS
 
 - [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
 - [ ] 29-2: _NodeJS - Upload files with Multer_
-- [ ] 29-3: _[Project - Cookmaster V2]()_
+- [ ] 29-3: _[Project - Cookmaster V2](#)_
 
 ##### Block 30: Introduction - Deploy
 
 - [ ] 30-1: _Infrastructure - Deploy with Heroku_
 - [ ] 30-2: _Deploy - Process Managers_
-- [ ] 30-3: _[Project - Stranger Things]()_
+- [ ] 30-3: _[Project - Stranger Things](#)_
 
 ##### Block 31: Project
 
-- [ ] 31-1: _[Project - Trybeer]()_
+- [ ] 31-1: _[Project - Trybeer](#)_
 
 ##### Block 32: Software Architecture
 
@@ -224,17 +224,17 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 32-2: _ORM - Application interface with the database_
 - [ ] 32-3: _Software Architecture - DDD_
 - [ ] 32-4: _Good practices in writing tests_
-- [ ] 32-3: _[Project - Blogs API]()_
+- [ ] 32-3: _[Project - Blogs API](#)_
 
 ##### Block 33: Sockets
 
 - [ ] 30-1: _Sockets - TCP/UDP & NET_
 - [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Project - Webchat]()_
+- [ ] 30-3: _[Project - Webchat](#)_
 
 ##### Block 34: Project
 
-- [ ] 34-1: _[Project - Trybeer V2]()_
+- [ ] 34-1: _[Project - Trybeer V2](#)_
 
 ## Computer Science :hourglass_flowing_sand:
 
@@ -243,7 +243,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 35-1: _Computer Architecture_
 - [ ] 35-2: _Network architecture_
 - [ ] 35-3: _Computer networks, tools and security_
-- [ ] 35-4: _[Project - Exploring the protocols]()_
+- [ ] 35-4: _[Project - Exploring the protocols](#)_
 
 ##### Block 36: Python
 
@@ -251,4 +251,4 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 35-2: _Tests and Exceptions_
 - [ ] 35-3: _Data Input and Output_
 - [ ] 36-4: _Data Input and Output_
-- [ ] 35-5: _[Project - Tech news]()_
+- [ ] 35-5: _[Project - Tech news](#)_
