@@ -14,7 +14,7 @@ With that in mind, this folder contains all the learning activities I developed 
 ##### Block 2: Git & GitHub
 
 - [x] 2-1: _What is it and what is it for?_
-- [ ] 2-2: _Understanding the commands_
+- [x] 2-2: _Understanding the commands_
 - [ ] 2-3: _Internet - Understanding how it works_
 
 ##### Block 3: Introduction - HTML & CSS
