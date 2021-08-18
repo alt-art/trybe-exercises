@@ -1,6 +1,6 @@
 # Git and Github
 
-# BLOCK 2
+## BLOCK 2
 
 This block belongs to the `fundamentals` module of the [Trybe](https://www.betrybe.com/) course. In this block I learned about how to use `git` and `Github` make `brachs` and `pull requests`.
 

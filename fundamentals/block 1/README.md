@@ -1,6 +1,6 @@
 # Unix and Shell
 
-# BLOCK 1
+## BLOCK 1
 
 This block belongs to the `fundamentals` module of the [Trybe](https://www.betrybe.com/) course. In this block I learned about `unix` commands and browsing files with terminal.
 
