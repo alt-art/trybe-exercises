@@ -17,7 +17,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 - [x] 2-1: _What is it and what is it for?_
 - [x] 2-2: _Understanding the commands_
-- [ ] 2-3: _Internet - Understanding how it works_
+- [x] 2-3: _Internet - Understanding how it works_
 
 ##### Block 3: Introduction - HTML & CSS
 
