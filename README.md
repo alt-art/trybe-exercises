@@ -6,6 +6,18 @@ _'Trybe is a school of the future for anyone who wants to improve their lives an
 
 The program features over 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
 
+- Web Development Fundamentals
+    - [Block 1: Introduction - Unix & Shell](#block-1-introduction---unix--shell)
+    - [Block 2: Git & GitHub](#block-2-git--github)
+    - [Block 3: Introduction - HTML & CSS](#block-3-introduction---html--css)
+    - [Block 4: Introduction - JavaScript](#block-4-introduction---javascript)
+    - [Block 5: Introduction - JavaScript - Projects](#block-5-introduction---javascript---projects)
+    - [Block 6: Advanced HTML & CSS](#block-6-advanced-html--css)
+    - [Block 7: JavaScript ES6 & Unit Tests](#block-7-javascript-es6--unit-tests)
+    - [Block 8: JavaScript ES6](#block-8-javascript-es6)
+    - [Block 9: Asynchronicity & Callbacks](#block-9-asynchronicity--callbacks)
+    - [Block 10: Jest](#block-10-jest)
+
 ## Web Development Fundamentals :white_check_mark:
 
 ##### Block 1: Introduction - Unix & Shell
