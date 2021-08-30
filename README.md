@@ -43,7 +43,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 ##### Block 4: Introduction - JavaScript
 
 - [x] 4-1: _JavaScript - First steps_
-- [ ] 4-2: _JavaScript - Array and For loop_
+- [x] 4-2: _JavaScript - Array and For loop_
 - [ ] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [ ] 4-4: _JavaScript - Objects and functions_
 - [ ] 4-5: _[Project - Playground Functions](#)_
@@ -166,7 +166,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 ##### Block 21: Relational Databases
 
 - [ ] 21-1: _Most used functions in SQL_
-- [ ] 21-2: _Uncomplicating JOINs and UNIONs_
+- [ ] 21-2: _Uncomplicated JOINs and UNIONs_
 - [ ] 21-3: _Stored Routines & Subqueries_
 - [ ] 21-4: _[Project - Vocabulary Booster](#)_
 
