@@ -44,7 +44,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 - [x] 4-1: _JavaScript - First steps_
 - [x] 4-2: _JavaScript - Array and For loop_
-- [ ] 4-3: _JavaScript - Programming Logic and Algorithms_
+- [x] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [ ] 4-4: _JavaScript - Objects and functions_
 - [ ] 4-5: _[Project - Playground Functions](#)_
 
