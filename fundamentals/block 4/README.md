@@ -1,4 +1,4 @@
-# Unix and Shell
+# Javascript
 
 ## BLOCK 1
 
