@@ -50,7 +50,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 ##### Block 5: Introduction - JavaScript - Projects
 
-- [ ] 5-1: _JavaScript - DOM and selectors_
+- [x] 5-1: _JavaScript - DOM and selectors_
 - [ ] 5-2: _JavaScript - Working with elements_
 - [ ] 5-3: _JavaScript - Events_
 - [ ] 5-4: _JavaScript - Web Storage_

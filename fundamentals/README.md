@@ -45,9 +45,9 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 4-4: _JavaScript - Objects and functions_
 - [x] 4-5: _[Project - Playground Functions](https://github.com/tryber/sd-016-a-project-playground-functions/tree/pedro-mendes-playground-functions)_
 
-##### Block 5: Introduction - JavaScript - Projects
+##### Block 5: Introduction - JavaScript, DOM and Web Storage
 
-- [ ] 5-1: _JavaScript - DOM and selectors_
+- [x] 5-1: _JavaScript - DOM and selectors_
 - [ ] 5-2: _JavaScript - Working with elements_
 - [ ] 5-3: _JavaScript - Events_
 - [ ] 5-4: _JavaScript - Web Storage_
