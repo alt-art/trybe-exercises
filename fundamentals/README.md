@@ -43,7 +43,7 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 4-2: _JavaScript - Array and For loop_
 - [x] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [x] 4-4: _JavaScript - Objects and functions_
-- [ ] 4-5: _[Project - Playground Functions]()_
+- [x] 4-5: _[Project - Playground Functions](https://github.com/tryber/sd-016-a-project-playground-functions/tree/pedro-mendes-playground-functions)_
 
 ##### Block 5: Introduction - JavaScript - Projects
 
