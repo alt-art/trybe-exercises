@@ -48,7 +48,7 @@ With that in mind, this folder contains all the learning activities I developed 
 ##### Block 5: Introduction - JavaScript, DOM and Web Storage
 
 - [x] 5-1: _JavaScript - DOM and selectors_
-- [ ] 5-2: _JavaScript - Working with elements_
+- [x] 5-2: _JavaScript - Working with elements_
 - [ ] 5-3: _JavaScript - Events_
 - [ ] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Project - Meme Generator]()_
