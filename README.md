@@ -52,7 +52,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 - [x] 5-1: _JavaScript - DOM and selectors_
 - [x] 5-2: _JavaScript - Working with elements_
-- [ ] 5-3: _JavaScript - Events_
+- [x] 5-3: _JavaScript - Events_
 - [ ] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Project - Meme Generator](#)_
 - [ ] 5-6: _[Project - Pixel Art](#)_
