@@ -50,7 +50,7 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 5-1: _JavaScript - DOM and selectors_
 - [x] 5-2: _JavaScript - Working with elements_
 - [x] 5-3: _JavaScript - Events_
-- [ ] 5-4: _JavaScript - Web Storage_
+- [x] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Project - Meme Generator]()_
 - [ ] 5-6: _[Project - Pixel Art]()_
 - [ ] 5-7: _[Project - Task List]()_
