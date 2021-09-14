@@ -55,7 +55,7 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 5-6: _[Project - Task List](https://github.com/tryber/sd-016-a-project-todo-list/tree/pedro-mendes-todo-list)_
 - [ ] 5-7: _[Project - Meme Generator]()_
 - [ ] 5-7: _[Project - Guess the Color]()_
-- [ ] 5-7: _[Project - Mysterious Letter]()_
+- [x] 5-7: _[Project - Mysterious Letter](https://github.com/tryber/sd-016-a-project-mistery-letter/tree/pedro-mendes-mistery-letter)_
 
 ##### Block 6: Advanced HTML & CSS
 
