@@ -55,7 +55,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [x] 5-3: _JavaScript - Events_
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _[Project - Pixel Art](https://github.com/tryber/sd-016-a-project-pixels-art/tree/pedro-mendes-pixels-art)_
-- [ ] 5-6: _[Project - Task List]()_
+- [x] 5-6: _[Project - Task List](https://github.com/tryber/sd-016-a-project-todo-list/tree/pedro-mendes-todo-list)_
 - [ ] 5-7: _[Project - Meme Generator]()_
 - [ ] 5-7: _[Project - Guess the Color]()_
 - [ ] 5-7: _[Project - Mysterious Letter]()_
