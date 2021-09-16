@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <script async src="script.js"></script>
+    <title>Form</title>
+</head>
+<body>
+    <main class="container py-4">
+        <h1>Forms</h1>
+        <form action="" method="post">
+            <section class="py-3">
+                <h2>Dados pessoais</h2>
+                <label class="form-label" for="name">Nome</label>
+                <input class="form-control" type="text" name="name" id="name" maxlength="40" required>
+                <label class="form-label" for="email">Email</label>
+                <input class="form-control" type="email" name="email" id="email" maxlength="50" required>
+                <label class="form-label" for="cpf">CPF</label required>
+                <input class="form-control" type="text" name="cpf" id="cpf" maxlength="11" required>
+                <label class="form-label" for="address">Endereço</label>
+                <input class="form-control" type="text" name="address" id="address" maxlength="200" required>
+                <label class="form-label" for="city">Cidade</label>
+                <input class="form-control" type="text" name="city" id="city" maxlength="28" required>
+                <label class="form-label" for="estate">Estado</label>
+                <select class="form-select" name="estate" id="estate" required>
+                    <option value="none">Selecionar Estado</option>
+                </select>
+                <input class="form-check-input" type="radio" name="home-type" id="home-type-1">
+                <label class="form-check-label" for="home-type-1">Casa</label>
+                <input class="form-check-input" type="radio" name="home-type" id="home-type-2">
+                <label for="home-type-2">Apartamento</label>
+            </section>
+            <section class="py-2">
+                <h2>Emprego</h2>
+                <label class="form-label" for="draft">Resumo do Currículo</label>
+                <textarea class="form-control" name="draft" id="draft" cols="30" rows="10" maxlength="1000" required></textarea>
+                <label class="form-label" for="role">Cargo</label>
+                <input class="form-control" type="text" name="role" id="role" maxlength="40" required>
+                <label class="form-label" for="role-description">Descrição do cargo</label>
+                <input class="form-control" type="text" name="role-description" id="role-description">
+                <label class="form-label" for="date">Data de início</label>
+                <input class="form-control" type="text" name="date" id="date" required>
+            </section>
+            <section class="p-3">
+                <button class="btn btn-primary" type="submit">Enviar</button>
+                <button class="btn btn-secondary" type="reset">Limpar</button>
+            </section>
+        </form>
+    </main>
+</body>
+</html>
