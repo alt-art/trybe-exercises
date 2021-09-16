@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script async src="script.js"></script>
+    <title>Form</title>
+</head>
+<body>
+    <main>
+        <form action="nssnsns" method="post">
+            <fieldset>
+                <legend>Dados</legend>
+                <label for="name">Nome</label>
+                <input type="text" name="name" id="name" maxlength="40" required>
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" maxlength="50" required>
+                <label for="cpf">CPF</label required>
+                <input type="text" name="cpf" id="cpf" maxlength="11" required>
+                <label for="address">Endereço</label>
+                <input type="text" name="address" id="address" maxlength="200" required>
+                <label for="city">Cidade</label>
+                <input type="text" name="city" id="city" maxlength="28" required>
+                <label for="estate">Estado</label>
+                <select name="estate" id="estate" required>
+                    <option value="none">Selecionar Estado</option>
+                </select>
+                <input type="radio" name="home-type" id="home-type-1">
+                <label for="home-type-1">Casa</label>
+                <input type="radio" name="home-type" id="home-type-2">
+                <label for="home-type-2">Apartamento</label>
+            </fieldset>
+            <fieldset>
+                <legend>Emprego</legend>
+                <label for="draft">Resumo do Currículo</label>
+                <textarea name="draft" id="draft" cols="30" rows="10" maxlength="1000" required></textarea>
+                <label for="role">Cargo</label>
+                <input type="text" name="role" id="role" maxlength="40" required>
+                <label for="role-description">Descrição do cargo</label>
+                <input type="text" name="role-description" id="role-description">
+                <label for="date">Data de início</label>
+                <input type="text" name="date" id="date" required>
+            </fieldset>
+            <button type="submit">Enviar</button>
+            <button type="reset">Limpar</button>
+        </form>
+    </main>
+</body>
+</html>
