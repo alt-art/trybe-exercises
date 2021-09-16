@@ -53,8 +53,8 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _[Project - Pixel Art](https://github.com/tryber/sd-016-a-project-pixels-art/tree/pedro-mendes-pixels-art)_
 - [x] 5-6: _[Project - Task List](https://github.com/tryber/sd-016-a-project-todo-list/tree/pedro-mendes-todo-list)_
-- [ ] 5-7: _[Project - Meme Generator]()_
-- [ ] 5-7: _[Project - Guess the Color]()_
+- [x] 5-7: _[Project - Meme Generator](https://github.com/tryber/sd-016-a-project-meme-generator/tree/pedro-mendes-meme-generator)_
+- [x] 5-7: _[Project - Guess the Color](https://github.com/tryber/sd-016-a-project-color-guess/tree/pedro-mendes-color-guess)_
 - [x] 5-7: _[Project - Mysterious Letter](https://github.com/tryber/sd-016-a-project-mistery-letter/tree/pedro-mendes-mistery-letter)_
 
 ##### Block 6: Advanced HTML & CSS
