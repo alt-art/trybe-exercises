@@ -64,10 +64,10 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _JavaScript Libraries and CSS Frameworks_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsive - Mobile First_
-- [ ] 6-6: _[Project - Facebook homepage](#)_
+- [x] 6-3: _CSS Flexbox - Part 1_
+- [x] 6-4: _CSS Flexbox - Part 2_
+- [x] 6-5: _CSS Responsive - Mobile First_
+- [x] 6-6: _[Project - Trybewarts](https://github.com/tryber/sd-016-a-project-trybewarts/tree/pedro-mendes-trybewarts)_
 
 ##### Block 7: JavaScript ES6 & Unit Tests
 
