@@ -68,10 +68,10 @@ With that in mind, this folder contains all the learning activities I developed 
 
 ##### Block 7: JavaScript ES6 & Unit Tests
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Unit tests in JavaScript_
-- [ ] 7-4: _[Project - JavaScript Unit Testing]()_
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
+- [x] 7-2: _JavaScript ES6 - Objects_
+- [x] 7-3: _Unit tests in JavaScript_
+- [x] 7-4: _[Project - JavaScript Unit Testing]()_
 
 ##### Block 8: JavaScript ES6
 
