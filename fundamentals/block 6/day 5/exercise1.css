@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+body {
+  transition: margin 200ms;
+  margin: 50px 20%;
+  background-color: #1a1a1a;
+  color: #c1c1c1;
+}
+
+img {
+  max-width: 300px;
+}
+
+main > div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+figure {
+  background-color: #aa11aa;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    margin: 50px 10%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  body {
+    margin: 50px 5%;
+  }
+}
