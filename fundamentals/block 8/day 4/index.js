@@ -95,7 +95,10 @@ function filterAustralianBornInXX() {
   });
 }
 
-assert.deepEqual(filterAustralianBornInXX(), filterAustralianBornInXXExpectedResult);
+assert.deepEqual(
+  filterAustralianBornInXX(),
+  filterAustralianBornInXXExpectedResult
+);
 
 // console.log(filterAustralianBornInXX());
 
@@ -122,9 +125,21 @@ function toObject(car) {
   };
 }
 
-assert.deepEqual(toObject(palio), { brand: 'Palio', model: 'Fiat', year: 2019 });
-assert.deepEqual(toObject(shelbyCobra), { brand: 'Shelby Cobra', model: 'Ford', year: 1963 });
-assert.deepEqual(toObject(chiron), { brand: 'Chiron', model: 'Bugatti', year: 2016 });
+assert.deepEqual(toObject(palio), {
+  brand: 'Palio',
+  model: 'Fiat',
+  year: 2019,
+});
+assert.deepEqual(toObject(shelbyCobra), {
+  brand: 'Shelby Cobra',
+  model: 'Ford',
+  year: 1963,
+});
+assert.deepEqual(toObject(chiron), {
+  brand: 'Chiron',
+  model: 'Bugatti',
+  year: 2016,
+});
 
 // console.log(toObject(palio));
 // console.log(toObject(shelbyCobra));
@@ -149,7 +164,7 @@ const ships = [
 ];
 
 function shipLength(ship) {
-  const {name, length, measurementUnit } = ship;
+  const { name, length, measurementUnit } = ship;
   return `${name} is ${length} ${measurementUnit} long`;
 }
 
@@ -169,6 +184,6 @@ assert.equal(greet('Alex'), 'Hi Alex');
 assert.equal(greet('John', 'Good morning'), 'Good morning John');
 assert.equal(greet('Isabela', 'Oi'), 'Oi Isabela');
 
-console.log(greet('John'))
-console.log(greet('John', 'Good morning'))
-console.log(greet('Isabela', 'Oi'))
+// console.log(greet('John'));
+// console.log(greet('John', 'Good morning'));
+// console.log(greet('Isabela', 'Oi'));
