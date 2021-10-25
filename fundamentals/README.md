@@ -79,17 +79,10 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map and filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [ ] 8-5: _[Project - Zoo functions]()_
+- [x] 8-5: _[Project - Zoo functions]()_
 
 ##### Block 9: Asynchronicity & Callbacks
 
-- [ ] 9-1: _Asynchronous JavaScript and Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Project - Shopping Cart]()_
-
-##### Block 10: Jest
-
-- [ ] 10-1: _First steps in Jest_
-- [ ] 10-2: _Jest - Asynchronous Tests_
-- [ ] 10-3: _Jest - Simulating behavior_
-- [ ] 10-4: _[Project - Asynchronous Jest and Mocking]()_
+- [x] 9-1: _Asynchronous JavaScript and Callbacks_
+- [x] 9-2: _JavaScript Promises_
+- [x] 9-3: _[Project - Shopping Cart](https://github.com/tryber/sd-016-a-project-shopping-cart/tree/pedro-henrique-project-shopping-cart)_
