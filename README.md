@@ -17,7 +17,6 @@ The program features over 1,500 hours of classroom and online classes, covers in
     - [Block 7: JavaScript ES6 & Unit Tests](#block-7-javascript-es6--unit-tests)
     - [Block 8: JavaScript ES6](#block-8-javascript-es6)
     - [Block 9: Asynchronicity & Callbacks](#block-9-asynchronicity--callbacks)
-    - [Block 10: Jest](#block-10-jest)
 
 ## Web Development Fundamentals :white_check_mark:
 
