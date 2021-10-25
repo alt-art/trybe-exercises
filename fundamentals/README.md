@@ -71,14 +71,14 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Unit tests in JavaScript_
-- [x] 7-4: _[Project - JavaScript Unit Testing]()_
+- [x] 7-4: _[Project - JavaScript Unit Testing](https://github.com/tryber/sd-016-a-project-js-unit-tests/tree/pedro-henrique-js-unit-tests)_
 
 ##### Block 8: JavaScript ES6
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map and filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
+- [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - map and filter_
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
+- [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 - [ ] 8-5: _[Project - Zoo functions]()_
 
 ##### Block 9: Asynchronicity & Callbacks
