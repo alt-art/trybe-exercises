@@ -12,11 +12,21 @@ The program features over 1,500 hours of classroom and online classes, covers in
     - [Block 2: Git & GitHub](#block-2-git--github)
     - [Block 3: Introduction - HTML & CSS](#block-3-introduction---html--css)
     - [Block 4: Introduction - JavaScript](#block-4-introduction---javascript)
-    - [Block 5: Introduction - JavaScript - Projects](#block-5-introduction---javascript---projects)
-    - [Block 6: Advanced HTML & CSS](#block-6-advanced-html--css)
+    - [Block 5: JavaScript: DOM, Events and Web Storage](#block-5-javascript-dom-events-and-web-storage)
+    - [Block 6: HTML and CSS: Forms, Flexbox and Responsive](#block-6-html-and-css-forms-flexbox-and-responsive)
     - [Block 7: JavaScript ES6 & Unit Tests](#block-7-javascript-es6--unit-tests)
     - [Block 8: JavaScript ES6](#block-8-javascript-es6)
     - [Block 9: Asynchronicity & Callbacks](#block-9-asynchronicity--callbacks)
+- Front-end Development
+    - [Block 10: Introduction - React](#block-10-introduction---react)
+    - [Block 11: Components with State, Events and Forms with React](#block-11-components-with-state-events-and-forms-with-react)
+    - [Block 12: Component Life Cycle and React Router](#block-12-component-life-cycle-and-react-router)
+    - [Block 13: Agile Methodologies](#block-13-agile-methodologies)
+    - [Block 14: Automated Testing with React Testing Library](#block-14-automated-testing-with-react-testing-library)
+    - [Block 15: State Management with Redux](#block-15-state-management-with-redux)
+    - [Block 16: Trivia Game Project](#block-16-trivia-game-project)
+    - [Block 17: Context API and React Hooks](#block-17-context-api-and-react-hooks)
+    - [Block 18: Recipe App Project](#block-18-recipe-app-project)
 
 ## Web Development Fundamentals :white_check_mark:
 
@@ -47,7 +57,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [x] 4-4: _JavaScript - Objects and functions_
 - [x] 4-5: _[Project - Playground Functions](https://github.com/tryber/sd-016-a-project-playground-functions/tree/pedro-mendes-playground-functions)_
 
-##### Block 5: Introduction - JavaScript - Projects
+##### Block 5: JavaScript: DOM, Events and Web Storage
 
 - [x] 5-1: _JavaScript - DOM and selectors_
 - [x] 5-2: _JavaScript - Working with elements_
@@ -59,7 +69,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [x] 5-7: _[Project - Guess the Color](https://github.com/tryber/sd-016-a-project-color-guess/tree/pedro-mendes-color-guess)_
 - [x] 5-7: _[Project - Mysterious Letter](https://github.com/tryber/sd-016-a-project-mistery-letter/tree/pedro-mendes-mistery-letter)_
 
-##### Block 6: Advanced HTML & CSS
+##### Block 6: HTML and CSS: Forms, Flexbox and Responsive
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _JavaScript Libraries and CSS Frameworks_
@@ -91,169 +101,194 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 ## Front-end development :hourglass_flowing_sand:
 
-##### Block 11: Introduction - React
+##### Block 10: Introduction - React
 
-- [ ] 11-1: _'Hello, world!' On React!_
-- [ ] 11-2: _React Components_
-- [ ] 11-3: _[Project - Movie Cards Library](#)_
+- [ ] 10-1: _'Hello, world!' On React!_
+- [ ] 10-2: _React Components_
+- [ ] 10-3: _[Project - Solar System](#)_
 
-##### Block 12: React
+##### Block 11: Components with State, Events and Forms with React
 
-- [ ] 12-1: _Components with status_
-- [ ] 12-2: _Events and forms in React_
-- [ ] 12-3: _[Project - Movie Cards Library Stateful](#)_
+- [ ] 11-1: _Components with state and events_
+- [ ] 11-2: _Forms in React_
+- [ ] 11-3: _[Project - Tryunfo](#)_
 
-##### Block 13: React
+##### Block 12: Component Life Cycle and React Router
 
-- [ ] 13-1: _Improving component reuse: props.children and PropTypes_
-- [ ] 13-2: _Component lifecycle in React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Project - Movie Cards Library CRUD](#)_
+- [ ] 12-1: _Component life cycle_
+- [ ] 12-2: _React Router_
+- [ ] 12-3: _[Project - TrybeTunes](#)_
 
-##### Block 14: Agile Methodologies
+##### Block 13: Agile Methodologies
 
-- [ ] 14-1: _Agile Methodologies_
-- [ ] 14-2: _[Project - Frontend Online Store](#)_
+- [ ] 13-1: _Agile Methodologies_
+- [ ] 13-2: _[Project - Frontend Online Store](#)_
 
-##### Block 15: Tests in React
+##### Block 14: Automated Testing with React Testing Library
 
-- [ ] 15-1: _Testing React with the React Testing Library_
-- [ ] 15-2: _Testing React with the React Testing Library - Part 2_
-- [ ] 15-3: _[Project - Tests in React](#)_
+- [ ] 14-1: _RTL - First steps_
+- [ ] 14-2: _RTL - Mocks e Inputs_
+- [ ] 14-2: _RTL - Testing React Router_
+- [ ] 14-3: _[Project - Tests in React](#)_
 
-##### Block 16: Introduction to Redux
+##### Block 15: State Management with Redux
 
-- [ ] 16-1: _Introduction to Redux_
-- [ ] 16-2: _React with Redux - Part 1_
-- [ ] 16-3: _React with Redux - Practice_
-- [ ] 16-4: _React with Redux - Part 2_
-- [ ] 16-5: _Synchronous tests with React-Redux_
-- [ ] 16-6: _[Project - Table with data filters](#)_
+- [ ] 15-1: _Introduction to Redux - The global state of the application_
+- [ ] 15-2: _React with Redux_
+- [ ] 15-3: _React with Redux - Practice_
+- [ ] 15-4: _Using Redux in React - Asynchronous Actions_
+- [ ] 15-5: _Tests in React-Redux_
+- [ ] 15-6: _[Project - Trybe Wallet](#)_
 
-##### Block 17: Project React
+##### Block 16: Trivia Game Project
 
-- [ ] 17-1: _[Project - Trivia Game](#)_
+- [ ] 16-1: _[Project - Trivia Game](#)_
 
-##### Block 18: React & Context API
+##### Block 17: Context API and React Hooks
 
-- [ ] 18-1: _Context API of React_
-- [ ] 18-2: _React Hooks - useState and useContext_
-- [ ] 18-3: _React Hooks - useEffect and Custom Hooks_
-- [ ] 18-4: _[Project - StarWars Datatable with Context API and Hooks](#)_
+- [ ] 17-1: _Context API of React_
+- [ ] 17-2: _React Hooks - useState and useContext_
+- [ ] 17-3: _React Hooks - useEffect and Custom Hooks_
+- [ ] 17-4: _[Project - StarWars Datatable with Context API and Hooks](#)_
 
-##### Block 19: Front-end Final Project
+##### Block 18: Recipe App Project
 
-- [ ] 19-1: _[Project - Recipe App](#)_
+- [ ] 18-1: _[Project - Recipe App](#)_
 
 ## Back-end Development :hourglass_flowing_sand:
 
-##### Block 20: Introduction - Relational Databases
+##### Block 19: Introduction to SQL
 
-- [ ] 20-1: _SQL Database_
-- [ ] 20-2: _Finding data in a database_
-- [ ] 20-3: _Filtering data specifically_
-- [ ] 20-4: _Manipulating tables_
-- [ ] 20-5: _[Project - All For One](#)_
+- [ ] 19-1: _SQL Database_
+- [ ] 19-2: _Finding data in a database_
+- [ ] 19-3: _Filtering data specifically_
+- [ ] 19-4: _Manipulating tables_
+- [ ] 19-5: _[Project - All For One](#)_
 
-##### Block 21: Relational Databases
+##### Block 20: SQL Functions, Joins and Subqueries
 
-- [ ] 21-1: _Most used functions in SQL_
-- [ ] 21-2: _Uncomplicated JOINs and UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Project - Vocabulary Booster](#)_
+- [ ] 20-1: _Most used functions in SQL_
+- [ ] 20-2: _Uncomplicated JOINs, UNIONs and Subqueries_
+- [ ] 20-3: _Stored Routines & Stored Functions_
+- [ ] 20-4: _[Project - Vocabulary Booster](#)_
 
-##### Block 22: Relational Databases
+##### Block 21: Database Normalization and Modeling
 
-- [ ] 22-1: _Transforming ideas into a database model_
-- [ ] 22-2: _Normalization, Normal Forms and Dumps_
-- [ ] 22-2: _Turning ideas into a database model - Part 2_
-- [ ] 22-3: _[Project - One For All](#)_
+- [ ] 21-1: _Transforming ideas into a database model - Part 1_
+- [ ] 21-2: _Normalization, Normal Forms and Dumps_
+- [ ] 21-2: _Turning ideas into a database model - Part 2_
+- [ ] 21-3: _[Project - One For All](#)_
 
-##### Block 23: Introduction - NoSQL
+##### Block 22: Introduction to MongoDB
 
-- [ ] 23-1: _MongoDB - Introduction_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Project - Date Flights](#)_
+- [ ] 22-1: _Introduction - NoSQL_
+- [ ] 22-2: _MongoDB - Introduction_
+- [ ] 22-3: _Filter Operators_
+- [ ] 22-4: _[Project - Date Flights](#)_
 
-##### Block 24: Updates
+##### Block 23: MongoDB: Simple and Complex Updates
 
-- [ ] 24-1: _Simple Updates_
-- [ ] 24-2: _Complex Updates - Arrays - Part 1_
-- [ ] 24-3: _Complex Updates - Arrays - Part 2_
-- [ ] 24-4: _[Project - Commerce](#)_
+- [ ] 23-1: _Simple Updates_
+- [ ] 23-2: _Complex Updates - Arrays - Part 1_
+- [ ] 23-3: _Complex Updates - Arrays - Part 2_
+- [ ] 23-4: _[Project - Commerce](#)_
 
-##### Block 25: Aggregation Framework
+##### Bloco 24: MongoDB: Aggregation Framework
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Project - Aggregations](#)_
+- [ ] 24-1: _Aggregation Framework - Part 1_
+- [ ] 24-2: _Aggregation Framework - Part 2_
+- [ ] 24-3: _[Project - Aggregations](#)_
 
-##### Block 26: Intro - NodeJS
+##### Block 25: Introduction to Web Development with NodeJS
 
-- [ ] 26-1: _NodeJS - Introduction_
-- [ ] 26-2: _NodeJS - Asynchronous Stream_
-- [ ] 26-3: _NodeJS - Architecture_
-- [ ] 26-4: _[Project - A CLI of Ice and Fire](#)_
+- [ ] 25-1: _NodeJS - Introduction_
+- [ ] 25-2: _NodeJS - Asynchronous Stream_
+- [ ] 25-3: _Tests with NodeJS_
+- [ ] 25-4: _Express: HTTP with Node.js_
+- [ ] 25-5: _Express: Middlewares_
+- [ ] 25-4: _[Project - Talker Manager](#)_
 
-##### Block 27: NodeJS
+##### Block 26: NodeJS: Service Layer and Rest and Restful Architecture
 
-- [ ] 27-1: _Express: HTTP with Node.js_
-- [ ] 27-2: _Software Architecture - Introduction to MVC_
-- [ ] 27-3: _[Project - Cookmaster](#)_
+- [ ] 26-1: _Software Architecture - Model Layer_
+- [ ] 26-2: _Software Architecture - Controller and Service Layer_
+- [ ] 26-3: _Software Architecture - Rest and Restful_
+- [ ] 26-4: _Software Architecture - Testing the Layers_
+- [ ] 26-5: _[Project - Store Manager](#)_
 
-##### Block 28: NodeJS
+##### Block 27: Authentication and File Upload
 
-- [ ] 28-1: _Software Architecture - Service Layer_
-- [ ] 28-2: _Web Architecture - Rest and Restful_
-- [ ] 28-3: _[Project - Store Manager](#)_
+- [ ] 27-1: _NodeJS - JWT - (JSON Web Token)_
+- [ ] 27-2: _NodeJS - Upload files with Multer_
+- [ ] 27-3: _NodeJS - Testing APIs with Integration Tests_
+- [ ] 27-4: _[Project - Cookmaster](#)_
 
-##### Block 29: NodeJS
+##### Block 28: Deployment
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload files with Multer_
-- [ ] 29-3: _[Project - Cookmaster V2](#)_
+- [ ] 28-1: _Infrastructure - Deploy with Heroku_
+- [ ] 28-2: _Deploy - Process Managers_
+- [ ] 28-3: _[Project - Stranger Things](#)_
 
-##### Block 30: Introduction - Deploy
+##### Block 29: Architecture: SOLID and ORM
 
-- [ ] 30-1: _Infrastructure - Deploy with Heroku_
-- [ ] 30-2: _Deploy - Process Managers_
-- [ ] 30-3: _[Project - Stranger Things](#)_
+- [ ] 29-1: _Architecture - SOLID Principles_
+- [ ] 29-2: _ORM - Application interface with the database_
+- [ ] 29-3: _ORM - Associations_
+- [ ] 29-4: _Good practices in writing tests_
+- [ ] 29-3: _[Project - Blogs API](#)_
 
-##### Block 31: Project
+##### Block 30: Sockets
 
-- [ ] 31-1: _[Project - Trybeer](#)_
+- [ ] 30-1: _Software Architecture - View Layer_
+- [ ] 30-2: _Sockets - TCP/UDP & NET_
+- [ ] 30-3: _Sockets - Socket.io_
+- [ ] 30-4: _Practicing Socket.io_
+- [ ] 30-5: _[Project - Webchat](#)_
 
-##### Block 32: Software Architecture
+##### Block 31: Project - Delivery App
 
-- [ ] 32-1: _Architecture - SOLID Principles_
-- [ ] 32-2: _ORM - Application interface with the database_
-- [ ] 32-3: _Software Architecture - DDD_
-- [ ] 32-4: _Good practices in writing tests_
-- [ ] 32-3: _[Project - Blogs API](#)_
-
-##### Block 33: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Project - Webchat](#)_
-
-##### Block 34: Project
-
-- [ ] 34-1: _[Project - Trybeer V2](#)_
+- [ ] 31-1: _[Project - Delivery App](#)_
 
 ## Computer Science :hourglass_flowing_sand:
 
-##### Block 35: Introduction - Computer Science
+##### Block 32: Introduction to Python1
 
-- [ ] 35-1: _Computer Architecture_
-- [ ] 35-2: _Network architecture_
-- [ ] 35-3: _Computer networks, tools and security_
-- [ ] 35-4: _[Project - Exploring the protocols](#)_
+- [ ] 32-1: _Learning Python_
+- [ ] 32-2: _Data Input and Output_=
+- [ ] 32-3: _Tests_
+- [ ] 32-4: _[Project - Job Insights](#)_
 
-##### Block 36: Python
+##### Block 33: Object-Oriented Programming and Design Patterns
 
-- [ ] 35-1: _Learning Python_
-- [ ] 35-2: _Tests and Exceptions_
-- [ ] 35-3: _Data Input and Output_
-- [ ] 36-4: _Data Input and Output_
-- [ ] 35-5: _[Project - Tech news](#)_
+- [ ] 33-1: _Introduction to Object-Oriented Programming_
+- [ ] 33-2: _Inheritance, Composition and Interfaces_
+- [ ] 33-3: _Design Patterns_
+
+##### Block 34: Networks and Data Scraping
+
+- [ ] 34-1: _Network Architecture_
+- [ ] 34-2: _Computer Networks, tools and security_
+- [ ] 34-3: _Data Scraping_
+- [ ] 34-4: _[Project - Tech news](#)_
+
+##### Block 35: Algorithms
+
+- [ ] 35-1: _Algorithm Complexity_
+- [ ] 35-2: _Recursiveness and Problem Solving Strategies_
+- [ ] 35-4: _Sorting Algorithms and Search Algorithms_
+- [ ] 35-5: _[Project - Algorithms](#)_
+
+##### Block 36: Data Structure I: Arrays, Hashmaps and Sets
+
+- [ ] 36-1: _Computer Architecture_
+- [ ] 36-2: _Arrays_
+- [ ] 36-3: _Hashmaps_
+- [ ] 36-4: _Set_
+- [ ] 36-5: _[Project - Restaurant Orders](#)_
+
+##### Block 37: Data Structure II: Lists, Queues and Stacks
+
+- [ ] 37-1: _Nodes and Linked Lists_
+- [ ] 37-2: _Deck_
+- [ ] 37-3: _Stacks_
+- [ ] 37-4: _[Project - TING - Trybe Is Not Google](#)_

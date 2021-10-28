@@ -11,12 +11,11 @@ With that in mind, this folder contains all the learning activities I developed 
 - [Block 2: Git & GitHub](#block-2-git--github)
 - [Block 3: Introduction - HTML & CSS](#block-3-introduction---html--css)
 - [Block 4: Introduction - JavaScript](#block-4-introduction---javascript)
-- [Block 5: Introduction - JavaScript - Projects](#block-5-introduction---javascript---projects)
-- [Block 6: Advanced HTML & CSS](#block-6-advanced-html--css)
+- [Block 5: JavaScript: DOM, Events and Web Storage](#block-5-javascript-dom-events-and-web-storage)
+- [Block 6: HTML and CSS: Forms, Flexbox and Responsive](#block-6-html-and-css-forms-flexbox-and-responsive)
 - [Block 7: JavaScript ES6 & Unit Tests](#block-7-javascript-es6--unit-tests)
 - [Block 8: JavaScript ES6](#block-8-javascript-es6)
 - [Block 9: Asynchronicity & Callbacks](#block-9-asynchronicity--callbacks)
-- [Block 10: Jest](#block-10-jest)
 
 ##### Block 1: Introduction - Unix & Shell
 
@@ -45,7 +44,7 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 4-4: _JavaScript - Objects and functions_
 - [x] 4-5: _[Project - Playground Functions](https://github.com/tryber/sd-016-a-project-playground-functions/tree/pedro-mendes-playground-functions)_
 
-##### Block 5: Introduction - JavaScript, DOM and Web Storage
+##### Block 5: JavaScript: DOM, Events and Web Storage
 
 - [x] 5-1: _JavaScript - DOM and selectors_
 - [x] 5-2: _JavaScript - Working with elements_
@@ -57,7 +56,7 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 5-7: _[Project - Guess the Color](https://github.com/tryber/sd-016-a-project-color-guess/tree/pedro-mendes-color-guess)_
 - [x] 5-7: _[Project - Mysterious Letter](https://github.com/tryber/sd-016-a-project-mistery-letter/tree/pedro-mendes-mistery-letter)_
 
-##### Block 6: Advanced HTML & CSS
+##### Block 6: HTML and CSS: Forms, Flexbox and Responsive
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _JavaScript Libraries and CSS Frameworks_
@@ -79,7 +78,7 @@ With that in mind, this folder contains all the learning activities I developed 
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map and filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [x] 8-5: _[Project - Zoo functions]()_
+- [x] 8-5: _[Project - Zoo functions](#)_
 
 ##### Block 9: Asynchronicity & Callbacks
 
