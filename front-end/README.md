@@ -20,7 +20,7 @@ With that in mind, this folder contains all the learning activities I developed 
 
 ##### Block 10: Introduction - React
 
-- [ ] 10-1: _'Hello, world!' On React!_
+- [x] 10-1: _'Hello, world!' On React!_
 - [ ] 10-2: _React Components_
 - [ ] 10-3: _[Project - Solar System](#)_
 
