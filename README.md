@@ -1,6 +1,6 @@
 # Trybe
 
-This repository contains all the learning activities developed by _[Pedro Henrique Mendes](https://www.linkedin.com/in/altart/)_ while studying at [Trybe](https://www.betrybe.com/ ) :rocket:
+This repository contains all the learning activities developed by _[Pedro Henrique Mendes](https://www.linkedin.com/in/altart/)_ while studying at [Trybe](https://www.betrybe.com/ ) 🚀
 
 _'Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where people only pay when they get a good job.'_
 
@@ -28,7 +28,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
     - [Block 17: Context API and React Hooks](#block-17-context-api-and-react-hooks)
     - [Block 18: Recipe App Project](#block-18-recipe-app-project)
 
-## Web Development Fundamentals :white_check_mark:
+## Web Development Fundamentals ✔️
 
 ##### Block 1: Introduction - Unix & Shell
 
@@ -99,13 +99,13 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [x] 9-2: _JavaScript Promises_
 - [x] 9-3: _[Project - Shopping Cart](https://github.com/tryber/sd-016-a-project-shopping-cart/tree/pedro-henrique-project-shopping-cart)_
 
-## Front-end development :hourglass_flowing_sand:
+## Front-end development ⏳
 
 ##### Block 10: Introduction - React
 
 - [x] 10-1: _'Hello, world!' On React!_
 - [x] 10-2: _React Components_
-- [ ] 10-3: _[Project - Solar System](#)_
+- [x] 10-3: _[Project - Solar System](#)_
 
 ##### Block 11: Components with State, Events and Forms with React
 
@@ -155,7 +155,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 - [ ] 18-1: _[Project - Recipe App](#)_
 
-## Back-end Development :hourglass_flowing_sand:
+## Back-end Development ⏳
 
 ##### Block 19: Introduction to SQL
 
@@ -249,7 +249,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 - [ ] 31-1: _[Project - Delivery App](#)_
 
-## Computer Science :hourglass_flowing_sand:
+## Computer Science ⏳
 
 ##### Block 32: Introduction to Python1
 

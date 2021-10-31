@@ -22,7 +22,7 @@ With that in mind, this folder contains all the learning activities I developed 
 
 - [x] 10-1: _'Hello, world!' On React!_
 - [x] 10-2: _React Components_
-- [ ] 10-3: _[Project - Solar System](#)_
+- [x] 10-3: _[Project - Solar System](#)_
 
 ##### Block 11: Components with State, Events and Forms with React
 
