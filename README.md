@@ -109,9 +109,9 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 ##### Block 11: Components with State, Events and Forms with React
 
-- [ ] 11-1: _Components with state and events_
-- [ ] 11-2: _Forms in React_
-- [ ] 11-3: _[Project - Tryunfo](#)_
+- [x] 11-1: _[Components with state and events](https://github.com/alt-art/exercise-pokedex-state)_
+- [x] 11-2: _Forms in React_
+- [x] 11-3: _[Project - Tryunfo](#)_
 
 ##### Block 12: Component Life Cycle and React Router
 
@@ -254,7 +254,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 ##### Block 32: Introduction to Python1
 
 - [ ] 32-1: _Learning Python_
-- [ ] 32-2: _Data Input and Output_=
+- [ ] 32-2: _Data Input and Output_
 - [ ] 32-3: _Tests_
 - [ ] 32-4: _[Project - Job Insights](#)_
 

@@ -26,9 +26,9 @@ With that in mind, this folder contains all the learning activities I developed 
 
 ##### Block 11: Components with State, Events and Forms with React
 
-- [ ] 11-1: _Components with state and events_
-- [ ] 11-2: _Forms in React_
-- [ ] 11-3: _[Project - Tryunfo](#)_
+- [x] 11-1: _[Components with state and events](https://github.com/alt-art/exercise-pokedex-state)_
+- [x] 11-2: _Forms in React_
+- [x] 11-3: _[Project - Tryunfo](#)_
 
 ##### Block 12: Component Life Cycle and React Router
 
