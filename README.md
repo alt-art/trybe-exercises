@@ -115,9 +115,9 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 ##### Block 12: Component Life Cycle and React Router
 
-- [ ] 12-1: _Component life cycle_
-- [ ] 12-2: _React Router_
-- [ ] 12-3: _[Project - TrybeTunes](#)_
+- [x] 12-1: _[Component life cycle](https://github.com/tryber/exercise-dog-image)_
+- [x] 12-2: _React Router_
+- [x] 12-3: _[Project - TrybeTunes](#)_
 
 ##### Block 13: Agile Methodologies
 
