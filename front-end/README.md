@@ -38,8 +38,8 @@ With that in mind, this folder contains all the learning activities I developed 
 
 ##### Block 13: Agile Methodologies
 
-- [ ] 13-1: _Agile Methodologies_
-- [ ] 13-2: _[Project - Frontend Online Store](#)_
+- [x] 13-1: _Agile Methodologies_
+- [x] 13-2: _[Project - Frontend Online Store](#)_
 
 ##### Block 14: Automated Testing with React Testing Library
 
