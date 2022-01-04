@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://unpkg.com/redux@latest/dist/redux.min.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <h1>Informações do primeiro Reducer:</h1>
+      <p>Nome: <span id="nome-1">Rodrigo</span></p>
+      <p>Sobrenome: <span id="sobrenome-1">Santos da Silva</span></p>
+      <p>Endereço: <span id="endereco-1">Rua Soldado Mathias, 765</span></p>
+      <p>Cidade: <span id="cidade-1">Belo Horizonte</span></p>
+    </div>
+    <div id="container">
+      <h1>Informações do segundo Reducer:</h1>
+      <p>Nome: <span id="nome-2">Bruna</span></p>
+      <p>Sobrenome: <span id="sobrenome-2">Santana Oliveira</span></p>
+      <p>Endereço: <span id="endereco-2">Rua Holanda, 332</span></p>
+      <p>Cidade: <span id="cidade-2">São Paulo</span></p>
+    </div>
+    <script>
+      const ActionsTypes_1 = {
+        ChangeName: "ChangeName_1",
+        ChangeLastName: "ChangeLastName_1",
+        ChangeAddress: "ChangeAddress_1",
+        ChangeCity: "ChangeCity_1",
+      };
+
+      const ActionsTypes_2 = {
+        ChangeName: "ChangeName_2",
+        ChangeLastName: "ChangeLastName_2",
+        ChangeAddress: "ChangeAddress_2",
+        ChangeCity: "ChangeCity_2",
+      };
+
+      const ESTADO_INICIAL_1 = {
+        nome: "Rodrigo",
+        sobrenome: "Santos da Silva",
+        endereco: "Rua Soldado Mathias, 765",
+        cidade: "Belo Horizonte",
+      };
+
+      const ESTADO_INICIAL_2 = {
+        nome: "Bruna",
+        sobrenome: "Santana Oliveira",
+        endereco: "Rua Holanda, 332",
+        cidade: "São Paulo",
+      };
+
+      const meuPrimeiroReducer = (state = ESTADO_INICIAL_1, action) => {
+        switch (action.type) {
+          case ActionsTypes_1.ChangeName:
+            return {
+              ...state,
+              nome: action.nome,
+            };
+          case ActionsTypes_1.ChangeLastName:
+            return {
+              ...state,
+              sobrenome: action.sobrenome,
+            };
+          case ActionsTypes_1.ChangeAddress:
+            return {
+              ...state,
+              endereco: action.endereco,
+            };
+          case ActionsTypes_1.ChangeCity:
+            return {
+              ...state,
+              cidade: action.cidade,
+            };
+          default:
+            return state;
+        }
+      };
+
+      const meuSegundoReducer = (state = ESTADO_INICIAL_2, action) => {
+        switch (action.type) {
+          case ActionsTypes_2.ChangeName:
+            return {
+              ...state,
+              nome: action.nome,
+            };
+          case ActionsTypes_2.ChangeLastName:
+            return {
+              ...state,
+              sobrenome: action.sobrenome,
+            };
+          case ActionsTypes_2.ChangeAddress:
+            return {
+              ...state,
+              endereco: action.endereco,
+            };
+          case ActionsTypes_2.ChangeCity:
+            return {
+              ...state,
+              cidade: action.cidade,
+            };
+          default:
+            return state;
+        }
+      };
+
+      const reducer = Redux.combineReducers({
+        meuPrimeiroReducer,
+        meuSegundoReducer,
+      });
+
+      const store = Redux.createStore(reducer);
+
+      const changeName_1 = (nome) => {
+        return {
+          type: ActionsTypes_1.ChangeName,
+          nome,
+        };
+      };
+
+      const changeLastName_1 = (sobrenome) => {
+        return {
+          type: ActionsTypes_1.ChangeLastName,
+          sobrenome,
+        };
+      };
+
+      const changeAddress_1 = (endereco) => {
+        return {
+          type: ActionsTypes_1.ChangeAddress,
+          endereco,
+        };
+      };
+
+      const changeCity_1 = (cidade) => {
+        return {
+          type: ActionsTypes_1.ChangeCity,
+          cidade,
+        };
+      };
+
+      const changeName_2 = (nome) => {
+        return {
+          type: ActionsTypes_2.ChangeName,
+          nome,
+        };
+      };
+
+      const changeLastName_2 = (sobrenome) => {
+        return {
+          type: ActionsTypes_2.ChangeLastName,
+          sobrenome,
+        };
+      };
+
+      const changeAddress_2 = (endereco) => {
+        return {
+          type: ActionsTypes_2.ChangeAddress,
+          endereco,
+        };
+      };
+
+      const changeCity_2 = (cidade) => {
+        return {
+          type: ActionsTypes_2.ChangeCity,
+          cidade,
+        };
+      };
+
+      const render = () => {
+        const state = store.getState();
+        document.getElementById("nome-1").innerText =
+          state.meuPrimeiroReducer.nome;
+        document.getElementById("sobrenome-1").innerText =
+          state.meuPrimeiroReducer.sobrenome;
+        document.getElementById("endereco-1").innerText =
+          state.meuPrimeiroReducer.endereco;
+        document.getElementById("cidade-1").innerText =
+          state.meuPrimeiroReducer.cidade;
+        document.getElementById("nome-2").innerText =
+          state.meuSegundoReducer.nome;
+        document.getElementById("sobrenome-2").innerText =
+          state.meuSegundoReducer.sobrenome;
+        document.getElementById("endereco-2").innerText =
+          state.meuSegundoReducer.endereco;
+        document.getElementById("cidade-2").innerText =
+          state.meuSegundoReducer.cidade;
+      };
+
+      store.subscribe(render);
+
+      window.onload = () => {
+        setTimeout(() => {
+          store.dispatch(changeName_1("Banana"));
+          store.dispatch(changeLastName_1("Banana"));
+          store.dispatch(changeAddress_1("Banana"));
+          store.dispatch(changeCity_1("Banana"));
+          store.dispatch(changeName_2("Banana"));
+          store.dispatch(changeLastName_2("Banana"));
+          store.dispatch(changeAddress_2("Banana"));
+          store.dispatch(changeCity_2("Banana"));
+        }, 3000);
+      };
+    </script>
+  </body>
+</html>

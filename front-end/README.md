@@ -43,14 +43,14 @@ With that in mind, this folder contains all the learning activities I developed 
 
 ##### Block 14: Automated Testing with React Testing Library
 
-- [ ] 14-1: _RTL - First steps_
-- [ ] 14-2: _RTL - Mocks e Inputs_
-- [ ] 14-2: _RTL - Testing React Router_
-- [ ] 14-3: _[Project - Tests in React](#)_
+- [x] 14-1: _RTL - First steps_
+- [x] 14-2: _RTL - Mocks e Inputs_
+- [x] 14-2: _RTL - Testing React Router_
+- [x] 14-3: _[Project - Tests in React](#)_
 
 ##### Block 15: State Management with Redux
 
-- [ ] 15-1: _Introduction to Redux - The global state of the application_
+- [x] 15-1: _Introduction to Redux - The global state of the application_
 - [ ] 15-2: _React with Redux_
 - [ ] 15-3: _React with Redux - Practice_
 - [ ] 15-4: _Using Redux in React - Asynchronous Actions_
