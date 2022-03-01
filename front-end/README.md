@@ -22,52 +22,52 @@ With that in mind, this folder contains all the learning activities I developed 
 
 - [x] 10-1: _'Hello, world!' On React!_
 - [x] 10-2: _React Components_
-- [x] 10-3: _[Project - Solar System](#)_
+- [x] 10-3: _Project - Solar System_
 
 ##### Block 11: Components with State, Events and Forms with React
 
 - [x] 11-1: _[Components with state and events](https://github.com/alt-art/exercise-pokedex-state)_
 - [x] 11-2: _Forms in React_
-- [x] 11-3: _[Project - Tryunfo](#)_
+- [x] 11-3: _Project - Tryunfo_
 
 ##### Block 12: Component Life Cycle and React Router
 
 - [x] 12-1: _[Component life cycle](https://github.com/tryber/exercise-dog-image)_
 - [x] 12-2: _React Router_
-- [x] 12-3: _[Project - TrybeTunes](#)_
+- [x] 12-3: _Project - TrybeTunes_
 
 ##### Block 13: Agile Methodologies
 
 - [x] 13-1: _Agile Methodologies_
-- [x] 13-2: _[Project - Frontend Online Store](#)_
+- [x] 13-2: _Project - Frontend Online Store_
 
 ##### Block 14: Automated Testing with React Testing Library
 
 - [x] 14-1: _RTL - First steps_
 - [x] 14-2: _RTL - Mocks e Inputs_
 - [x] 14-2: _RTL - Testing React Router_
-- [x] 14-3: _[Project - Tests in React](#)_
+- [x] 14-3: _Project - Tests in React_
 
 ##### Block 15: State Management with Redux
 
 - [x] 15-1: _Introduction to Redux - The global state of the application_
-- [ ] 15-2: _React with Redux_
-- [ ] 15-3: _React with Redux - Practice_
-- [ ] 15-4: _Using Redux in React - Asynchronous Actions_
-- [ ] 15-5: _Tests in React-Redux_
-- [ ] 15-6: _[Project - Trybe Wallet](#)_
+- [x] 15-2: _React with Redux_
+- [x] 15-3: _React with Redux - Practice_
+- [x] 15-4: _Using Redux in React - Asynchronous Actions_
+- [x] 15-5: _Tests in React-Redux_
+- [x] 15-6: _Project - Trybe Wallet_
 
 ##### Block 16: Trivia Game Project
 
-- [ ] 16-1: _[Project - Trivia Game](#)_
+- [x] 16-1: _Project - Trivia Game_
 
 ##### Block 17: Context API and React Hooks
 
-- [ ] 17-1: _Context API of React_
-- [ ] 17-2: _React Hooks - useState and useContext_
-- [ ] 17-3: _React Hooks - useEffect and Custom Hooks_
-- [ ] 17-4: _[Project - StarWars Datatable with Context API and Hooks](#)_
+- [x] 17-1: _Context API of React_
+- [x] 17-2: _React Hooks - useState and useContext_
+- [x] 17-3: _React Hooks - useEffect and Custom Hooks_
+- [x] 17-4: _Project - StarWars Datatable with Context API and Hooks_
 
 ##### Block 18: Recipe App Project
 
-- [ ] 18-1: _[Project - Recipe App](#)_
+- [x] 18-1: _Project - Recipe App_
