@@ -157,101 +157,72 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 ## Back-end Development ⏳
 
-##### Block 19: Introduction to SQL
+##### Block 19: Docker: Using Containers
 
-- [x] 19-1: _SQL Database_
-- [x] 19-2: _Finding data in a database_
-- [x] 19-3: _Filtering data specifically_
-- [x] 19-4: _Manipulating tables_
-- [x] 19-5: _Project - All For One_
+- [x] 19-1: _Introduction - Backend_
+- [x] 19-2: _Utilizing Containers - Docker_
+- [x] 19-3: _Manipulation and Creation of Docker Images_
+- [x] 19-4: _Orchestrating Containers with Docker Compose_
+- [x] 19-5: _Project - Docker Todo List_
 
-##### Block 20: SQL Functions, Joins and Subqueries
+##### Block 20: Introduction to SQL
 
-- [ ] 20-1: _Most used functions in SQL_
-- [ ] 20-2: _Uncomplicated JOINs, UNIONs and Subqueries_
-- [ ] 20-3: _Stored Routines & Stored Functions_
-- [ ] 20-4: _[Project - Vocabulary Booster](#)_
+- [x] 20-1: _SQL Database_
+- [x] 20-2: _Finding data in a database_
+- [x] 20-3: _Filtering data specifically_
+- [x] 20-4: _Manipulating tables_
+- [x] 20-5: _Project - All For One_
 
-##### Block 21: Database Normalization and Modeling
+##### Block 21: SQL Functions, JOINs and Normalization
 
-- [ ] 21-1: _Transforming ideas into a database model - Part 1_
-- [ ] 21-2: _Normalization, Normal Forms and Dumps_
-- [ ] 21-2: _Turning ideas into a database model - Part 2_
-- [ ] 21-3: _[Project - One For All](#)_
+- [x] 21-1: _Most used functions in SQL_
+- [x] 21-2: _Uncomplicated JOINs, UNIONs and Subqueries_
+- [x] 21-1: _Transforming ideas into a database model_
+- [x] 21-3: _Project - One For All_
 
-##### Block 22: Introduction to MongoDB
+##### Block 22: Introduction to Web Development with NodeJS
 
-- [ ] 22-1: _Introduction - NoSQL_
-- [ ] 22-2: _MongoDB - Introduction_
-- [ ] 22-3: _Filter Operators_
-- [ ] 22-4: _[Project - Date Flights](#)_
+- [x] 22-1: _NodeJS - Introduction_
+- [ ] 22-2: _NodeJS - Asynchronous Stream_
+- [ ] 22-3: _Tests with NodeJS_
+- [ ] 22-4: _Express: HTTP with Node.js_
+- [ ] 22-5: _Express: Middlewares_
+- [ ] 22-4: _[Project - Talker Manager](#)_
 
-##### Block 23: MongoDB: Simple and Complex Updates
+##### Block 23: NodeJS: Service Layer and Rest and Restful Architecture
 
-- [ ] 23-1: _Simple Updates_
-- [ ] 23-2: _Complex Updates - Arrays - Part 1_
-- [ ] 23-3: _Complex Updates - Arrays - Part 2_
-- [ ] 23-4: _[Project - Commerce](#)_
+- [ ] 23-1: _Introduction - Software Architecture_
+- [ ] 23-1: _Software Architecture - Model Layer_
+- [ ] 23-2: _Software Architecture - Controller and Service Layer_
+- [ ] 23-3: _Software Architecture - Rest and Restful_
+- [ ] 23-4: _Software Architecture - Testing the Layers_
+- [ ] 23-5: _[Project - Store Manager](#)_
 
-##### Bloco 24: MongoDB: Aggregation Framework
+##### Block 24: Block 24: Node.js: ORM and Authentication
 
-- [ ] 24-1: _Aggregation Framework - Part 1_
-- [ ] 24-2: _Aggregation Framework - Part 2_
-- [ ] 24-3: _[Project - Aggregations](#)_
+- [ ] 24-1: _Introduction - ORM and Authentication_
+- [ ] 24-2: _ORM - Application interface with the database_
+- [ ] 24-3: _ORM - Associations_
+- [ ] 24-1: _NodeJS - JWT - (JSON Web Token)_
+- [ ] 24-3: _NodeJS - Testing APIs with Integration Tests_
+- [ ] 24-4: _[Project - Blog API](#)_
 
-##### Block 25: Introduction to Web Development with NodeJS
+##### Block 25: Deployment
+- [ ] 25-1: _Introduction - Deploy_
+- [ ] 25-1: _Infrastructure - Deploy with Heroku_
+- [ ] 25-2: _Deploy Docker & Heroku_
+- [ ] 25-3: _[Project - Stranger Things](#)_
 
-- [ ] 25-1: _NodeJS - Introduction_
-- [ ] 25-2: _NodeJS - Asynchronous Stream_
-- [ ] 25-3: _Tests with NodeJS_
-- [ ] 25-4: _Express: HTTP with Node.js_
-- [ ] 25-5: _Express: Middlewares_
-- [ ] 25-4: _[Project - Talker Manager](#)_
+##### Block 26: Typescript
 
-##### Block 26: NodeJS: Service Layer and Rest and Restful Architecture
-
-- [ ] 26-1: _Software Architecture - Model Layer_
-- [ ] 26-2: _Software Architecture - Controller and Service Layer_
-- [ ] 26-3: _Software Architecture - Rest and Restful_
-- [ ] 26-4: _Software Architecture - Testing the Layers_
-- [ ] 26-5: _[Project - Store Manager](#)_
-
-##### Block 27: Authentication and File Upload
-
-- [ ] 27-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 27-2: _NodeJS - Upload files with Multer_
-- [ ] 27-3: _NodeJS - Testing APIs with Integration Tests_
-- [ ] 27-4: _[Project - Cookmaster](#)_
-
-##### Block 28: Deployment
-
-- [ ] 28-1: _Infrastructure - Deploy with Heroku_
-- [ ] 28-2: _Deploy - Process Managers_
-- [ ] 28-3: _[Project - Stranger Things](#)_
-
-##### Block 29: Architecture: SOLID and ORM
-
-- [ ] 29-1: _Architecture - SOLID Principles_
-- [ ] 29-2: _ORM - Application interface with the database_
-- [ ] 29-3: _ORM - Associations_
-- [ ] 29-4: _Good practices in writing tests_
-- [ ] 29-3: _[Project - Blogs API](#)_
-
-##### Block 30: Sockets
-
-- [ ] 30-1: _Software Architecture - View Layer_
-- [ ] 30-2: _Sockets - TCP/UDP & NET_
-- [ ] 30-3: _Sockets - Socket.io_
-- [ ] 30-4: _Practicing Socket.io_
-- [ ] 30-5: _[Project - Webchat](#)_
-
-##### Block 31: Project - Delivery App
-
-- [ ] 31-1: _[Project - Delivery App](#)_
+- [ ] 26-1: _Introduction - Typescript_
+- [ ] 26-2: _Static Typing and Generics_
+- [ ] 26-3: _Project - Express with Typescript_
+- [ ] 26-4: _Project - Trybe Smith_
 
 ## Computer Science ⏳
 
-##### Block 32: Introduction to Python1
+##### Block 32: Introduction to Python
 
 - [ ] 32-1: _Learning Python_
 - [ ] 32-2: _Data Input and Output_
