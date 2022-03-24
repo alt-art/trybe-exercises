@@ -183,11 +183,11 @@ The program features over 1,500 hours of classroom and online classes, covers in
 ##### Block 22: Introduction to Web Development with NodeJS
 
 - [x] 22-1: _NodeJS - Introduction_
-- [ ] 22-2: _NodeJS - Asynchronous Stream_
-- [ ] 22-3: _Tests with NodeJS_
-- [ ] 22-4: _Express: HTTP with Node.js_
-- [ ] 22-5: _Express: Middlewares_
-- [ ] 22-4: _[Project - Talker Manager](#)_
+- [x] 22-2: _NodeJS - Asynchronous Stream_
+- [x] 22-3: _Tests with NodeJS_
+- [x] 22-4: _Express: HTTP with Node.js_
+- [x] 22-5: _Express: Middlewares_
+- [x] 22-4: _[Project - Talker Manager](#)_
 
 ##### Block 23: NodeJS: Service Layer and Rest and Restful Architecture
 
