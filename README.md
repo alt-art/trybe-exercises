@@ -91,7 +91,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map and filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [x] 8-5: _[Project - Zoo functions](#)_
+- [x] 8-5: _[Project - Zoo functions_
 
 ##### Block 9: Asynchronicity & Callbacks
 
@@ -105,13 +105,13 @@ The program features over 1,500 hours of classroom and online classes, covers in
 
 - [x] 10-1: _'Hello, world!' On React!_
 - [x] 10-2: _React Components_
-- [x] 10-3: _[Project - Solar System](#)_
+- [x] 10-3: _[Project - Solar System_
 
 ##### Block 11: Components with State, Events and Forms with React
 
 - [x] 11-1: _[Components with state and events](https://github.com/alt-art/exercise-pokedex-state)_
 - [x] 11-2: _Forms in React_
-- [x] 11-3: _[Project - Tryunfo](#)_
+- [x] 11-3: _[Project - Tryunfo_
 
 ##### Block 12: Component Life Cycle and React Router
 
@@ -187,31 +187,31 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [x] 22-3: _Tests with NodeJS_
 - [x] 22-4: _Express: HTTP with Node.js_
 - [x] 22-5: _Express: Middlewares_
-- [x] 22-4: _[Project - Talker Manager](#)_
+- [x] 22-4: _Project - Talker Manager_
 
 ##### Block 23: NodeJS: Service Layer and Rest and Restful Architecture
 
-- [ ] 23-1: _Introduction - Software Architecture_
-- [ ] 23-1: _Software Architecture - Model Layer_
-- [ ] 23-2: _Software Architecture - Controller and Service Layer_
-- [ ] 23-3: _Software Architecture - Rest and Restful_
-- [ ] 23-4: _Software Architecture - Testing the Layers_
-- [ ] 23-5: _[Project - Store Manager](#)_
+- [x] 23-1: _Introduction - Software Architecture_
+- [x] 23-1: _Software Architecture - Model Layer_
+- [x] 23-2: _Software Architecture - Controller and Service Layer_
+- [x] 23-3: _Software Architecture - Rest and Restful_
+- [x] 23-4: _Software Architecture - Testing the Layers_
+- [x] 23-5: _Project - Store Manager_
 
 ##### Block 24: Block 24: Node.js: ORM and Authentication
 
-- [ ] 24-1: _Introduction - ORM and Authentication_
-- [ ] 24-2: _ORM - Application interface with the database_
-- [ ] 24-3: _ORM - Associations_
-- [ ] 24-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 24-3: _NodeJS - Testing APIs with Integration Tests_
-- [ ] 24-4: _[Project - Blog API](#)_
+- [x] 24-1: _Introduction - ORM and Authentication_
+- [x] 24-2: _ORM - Application interface with the database_
+- [x] 24-3: _ORM - Associations_
+- [x] 24-1: _NodeJS - JWT - (JSON Web Token)_
+- [x] 24-3: _NodeJS - Testing APIs with Integration Tests_
+- [x] 24-4: _Project - Blog API_
 
 ##### Block 25: Deployment
 - [ ] 25-1: _Introduction - Deploy_
 - [ ] 25-1: _Infrastructure - Deploy with Heroku_
 - [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Project - Stranger Things](#)_
+- [ ] 25-3: _Project - Stranger Things_
 
 ##### Block 26: Typescript
 
@@ -227,7 +227,7 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 32-1: _Learning Python_
 - [ ] 32-2: _Data Input and Output_
 - [ ] 32-3: _Tests_
-- [ ] 32-4: _[Project - Job Insights](#)_
+- [ ] 32-4: _Project - Job Insights_
 
 ##### Block 33: Object-Oriented Programming and Design Patterns
 
@@ -240,14 +240,14 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 34-1: _Network Architecture_
 - [ ] 34-2: _Computer Networks, tools and security_
 - [ ] 34-3: _Data Scraping_
-- [ ] 34-4: _[Project - Tech news](#)_
+- [ ] 34-4: _Project - Tech news_
 
 ##### Block 35: Algorithms
 
 - [ ] 35-1: _Algorithm Complexity_
 - [ ] 35-2: _Recursiveness and Problem Solving Strategies_
 - [ ] 35-4: _Sorting Algorithms and Search Algorithms_
-- [ ] 35-5: _[Project - Algorithms](#)_
+- [ ] 35-5: _Project - Algorithms_
 
 ##### Block 36: Data Structure I: Arrays, Hashmaps and Sets
 
@@ -255,11 +255,11 @@ The program features over 1,500 hours of classroom and online classes, covers in
 - [ ] 36-2: _Arrays_
 - [ ] 36-3: _Hashmaps_
 - [ ] 36-4: _Set_
-- [ ] 36-5: _[Project - Restaurant Orders](#)_
+- [ ] 36-5: _Project - Restaurant Orders_
 
 ##### Block 37: Data Structure II: Lists, Queues and Stacks
 
 - [ ] 37-1: _Nodes and Linked Lists_
 - [ ] 37-2: _Deck_
 - [ ] 37-3: _Stacks_
-- [ ] 37-4: _[Project - TING - Trybe Is Not Google](#)_
+- [ ] 37-4: _Project - TING - Trybe Is Not Google_
